@@ -1,7 +1,7 @@
 # USAGE
 
     $ git clone git@github.com:nephia/nephia-pan.git
-    $ cpanm --mirror-only --mirror=file:///path/to/nephia-pan/ Nephia-Setup-Plugin-Normal
+    $ cpanm --mirror-only --mirror=file:///path/to/nephia-pan/ Nephia::Setup::Plugin::Normal
 
 # How to inject your plugin
 
